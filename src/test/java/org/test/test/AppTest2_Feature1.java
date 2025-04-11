@@ -15,5 +15,6 @@ public class AppTest2_Feature1 {
     	
     	System.out.println("This is the first line i am adding in the feature file");
     	System.out.println("I am adding the lines and will stash this");
+    	System.out.println("This is the second stash apptest2_feature 1");
     }
 }
