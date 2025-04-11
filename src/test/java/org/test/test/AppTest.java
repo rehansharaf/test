@@ -16,5 +16,6 @@ public class AppTest {
     public void shouldAnswerWithTrue() {
         assertTrue(true);
         System.out.println("This is the added line");
+        System.out.println("One more line added 2");
     }
 }
