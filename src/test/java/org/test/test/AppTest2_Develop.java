@@ -15,5 +15,6 @@ public class AppTest2_Develop {
     	
     	System.out.println("Hello this is the testapp2_Develop branch code");
     	System.out.println("What i can do now i updated on apptest file now");
+    	System.out.println("Done with the practice");
     }
 }
