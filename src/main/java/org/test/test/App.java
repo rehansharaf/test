@@ -6,6 +6,7 @@ package org.test.test;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("This is the second stash app");
+        System.out.print("New Line added on Apr 14th 2025");
+        System.out.print("Second line added");
     }
 }
